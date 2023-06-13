@@ -8,7 +8,7 @@ const OrdersCard = props => {
       <div className='flex justify-between w-full'>
 
         <p className='flex flex-col left--10'>
-          <span className='font-light'>01.05.25 </span>
+          <span className='font-light'>01.06.25 </span>
           <span className='font-light'>{totalProducts} articles</span>
         </p>
         <p className='flex items-center gap-2'>
